@@ -93,7 +93,7 @@ export default function App() {
     };
 
     // Generate the document content (HTML string)
-    const generateDocumentContent = async () => {
+    const generateDocumentContent = async ().
         let photosHtml = '';
         for (const room of roomDamages) {
             let roomPhotosHtml = '';
